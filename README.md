@@ -4,18 +4,7 @@
 This project analyzes **startup funding data** to uncover key investment trends, top industries, most active investors, and funding growth over time.  
 The analysis is performed in **Python** for data cleaning and transformation, followed by **Power BI** for interactive dashboard visualization.
 
-## 🧾 Dataset
 
-- **File Name:** `startup_funding.csv`  
-- **Description:** Contains historical funding data for startups including funding amount, city, industry, investor, and funding round.  
-- **Key Columns:**  
-  - `Date` – Date of funding  
-  - `StartupName` – Name of the startup  
-  - `IndustryVertical` – Sector/industry of the startup  
-  - `CityLocation` – Location of the startup  
-  - `InvestorsName` – Name of the investor(s)  
-  - `InvestmentType` – Seed/Series A/Series B etc.  
-  - `AmountInUSD` – Funding amount in USD  
 
 ## ⚙️ Tech Stack
 
