@@ -23,6 +23,4 @@ The analysis is performed in **Python** for data cleaning and transformation, fo
   
 
 
-```bash
-git clone https://github.com/yourusername/startup-funding-analysis.git
-cd startup-funding-analysis
+
