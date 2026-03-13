@@ -60,7 +60,7 @@ Startup-Funding-Analysis/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/Startup-Funding-Analysis.git
+git clone https://github.com/Mansha0805/Startup-Funding-Analysis.git
 cd Startup-Funding-Analysis
 
 # 2. Create a virtual environment (optional but recommended)
